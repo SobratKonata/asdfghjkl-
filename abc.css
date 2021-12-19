@@ -1,0 +1,28 @@
+input{
+    border:rgb(17, 16, 16) solid ;
+    height: 12%;
+    width:90% ;
+    margin-top: 5px;
+
+}
+.but{
+    background-color: #1cbc11;
+    border: none;
+    width: 93%;
+    margin-top: 5px;
+    color: white;
+    height: 12%;
+}
+body{
+    color: #992828;
+}
+form{
+    padding-top: 15px;
+    width: 320px;
+    height: 320px;
+    background-color: rgb(218, 196, 196);
+    display: inline-block;
+}
+button:hover{
+    background-color: darkturquoise;
+}
